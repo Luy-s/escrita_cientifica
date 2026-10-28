@@ -1,11 +1,11 @@
 ---
-name: escrita-cientifica-pfsj
-description: Ajuda a planejar, redigir e revisar textos científicos com base no perfil argumentativo da qualificação de doutorado de Paulo Fernandes da Silva Júnior, adaptando a estrutura ao gênero e ao modelo editorial fornecido e evitando clichês e fórmulas genéricas de IA.
+name: escrita-cientifica-perfil-academico
+description: Ajuda a planejar, redigir e revisar textos científicos com base em traços argumentativos de uma qualificação de doutorado fornecida como referência, adaptando a estrutura ao gênero e ao modelo editorial e evitando clichês e fórmulas genéricas de IA.
 ---
 
-# Escrita científica com perfil PFSJ
+# Escrita científica com perfil argumentativo de referência
 
-Use esta skill quando a pessoa pedir para planejar, redigir ou revisar uma qualificação, artigo, capítulo ou outro texto científico com o perfil argumentativo observado na qualificação de 2016 de Paulo Fernandes da Silva Júnior.
+Use esta skill quando a pessoa pedir para planejar, redigir ou revisar uma qualificação, artigo, capítulo ou outro texto científico com base no perfil argumentativo observado em uma qualificação de doutorado de 2016 fornecida como referência.
 
 ## Fluxo de trabalho
 
